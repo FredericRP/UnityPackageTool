@@ -1,0 +1,15 @@
+{
+    "name": "com.fredericrp.unitypackagetool",
+    "version": "1.0.0",
+    "displayName": "FredericRP Unity Package Tool",
+    "description": "Update package.json file to match Assembly definition references",
+    "unity": "2020.1",
+    "keywords": [
+        "standard assets"
+    ],
+    "author": {
+        "name": "FredericRP",
+        "email": "unity@FredericRP.com",
+        "url": "https://FredericRP.com"
+    }
+}
